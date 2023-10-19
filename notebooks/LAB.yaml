@@ -1,0 +1,8 @@
+Directory:
+    Datasets: ".DATASETS"
+    Checkpoints: ".CHECKPOINTS"
+    Runs: ".RUNS"
+
+Random:
+    Seed: 0xCAFE
+
